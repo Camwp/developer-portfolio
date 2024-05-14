@@ -74,6 +74,7 @@ function ContactWithoutCaptcha() {
               onChange={(e) => setInput({ ...input, name: e.target.value })}
               onBlur={checkRequired}
               value={input.name}
+              name="from_name"
             />
           </div>
 
