@@ -1,11 +1,11 @@
 export const contactsData = {
     email: 'info@casualhorizons.com',
-    phone: '+8801608797655',
-    address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-    github: 'https://github.com/said7388',
-    facebook: 'https://www.facebook.com/abusaid.riyaz/',
-    linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
+    phone: '+19165792766',
+    address: 'Rocklin, CA ',
+    github: 'https://github.com/camwp',
+    facebook: 'https://www.facebook.com/cameron.pedro.5/',
+    linkedIn: 'https://www.linkedin.com/in/cameronpedro/',
     twitter: 'https://twitter.com/said7388',
     stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-    devUsername: "said7388"
+    devUsername: "Sundaii"
 }
