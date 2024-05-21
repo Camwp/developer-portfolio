@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
+    title: "Bachelor Degree in Computer Science",
     duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    institution: "Brigham Young University - Idaho",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Web and Computer Programming - Certificate",
+    duration: "2020 - 2022",
+    institution: "Brigham Young University - Idaho",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Pathways World-Wide - Certificate",
+    duration: "2019 - 2020",
+    institution: "BYU - Pathways World-Wide",
   }
 ]
