@@ -53,6 +53,36 @@ export const projectsData = [
         demo: 'https://jmcivileng.com/',
         image: ayla,
         role: 'Project Manager / Backend & Frontend Dev',
+    },
+    {
+        id: 6,
+        name: 'AaronPrentice.Fitness',
+        description: "Static website to serve as an information area about personal training services offered as well as a consultation and checkout section to complete the monthly / weekly services.",
+        tools: ['HTML', 'CSS', 'Github', 'JavaScript'],
+        code: '',
+        demo: 'https://aaronprentice.fitness/',
+        image: ayla,
+        role: 'Project Manager / Backend & Frontend Dev',
+    },
+    {
+        id: 7,
+        name: 'JM Civil Engineering',
+        description: "BYU-Idaho web development final.",
+        tools: ['HTML', 'CSS', 'Github', 'JavaScript'],
+        code: '',
+        demo: 'https://camwp.github.io/wdd131/final/final.html',
+        image: ayla,
+        role: 'Project Manager / Backend & Frontend Dev',
+    },
+    {
+        id: 8,
+        name: 'JM Civil Engineering',
+        description: "I have developed a static HTML site for one of my clients that requested a simple site that displays information about their business as well as some forms for contact / business proposals. This also provided a way to post job listings on other sites and bring them in automatically to the site.",
+        tools: ['HTML', 'CSS', 'Netlify'],
+        code: '',
+        demo: 'https://jmcivileng.com/',
+        image: ayla,
+        role: 'Project Manager / Backend & Frontend Dev',
     }
 ];
 
