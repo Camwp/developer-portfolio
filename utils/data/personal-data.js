@@ -9,9 +9,9 @@ export const personalData = {
   github: 'https://github.com/camwp',
   facebook: 'https://www.facebook.com/cameron.pedro.5/',
   linkedIn: 'https://www.linkedin.com/in/cameronpedro/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
+  twitter: 'https://twitter.com',
+  stackOverflow: 'https://stackoverflow.com/',
+  leetcode: "https://leetcode.com",
   devUsername: "Sundaii",
   resume: "https://drive.google.com/file/d/1zzlv80dtW2qOharo6fsAw1E6u6aeztA0/view?usp=sharing"
 }

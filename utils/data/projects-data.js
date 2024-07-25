@@ -66,7 +66,7 @@ export const projectsData = [
     },
     {
         id: 7,
-        name: 'JM Civil Engineering',
+        name: 'Green Spaces Landscaping Final',
         description: "BYU-Idaho web development final.",
         tools: ['HTML', 'CSS', 'Github', 'JavaScript'],
         code: '',
@@ -76,13 +76,23 @@ export const projectsData = [
     },
     {
         id: 8,
-        name: 'JM Civil Engineering',
-        description: "I have developed a static HTML site for one of my clients that requested a simple site that displays information about their business as well as some forms for contact / business proposals. This also provided a way to post job listings on other sites and bring them in automatically to the site.",
-        tools: ['HTML', 'CSS', 'Netlify'],
+        name: 'Shift4 Internal Lead Management CRM',
+        description: "I have developed a dynamic JS webapp for one of my clients that requested a simple internal crm that displays information about their clients business as well as automatically schedules their daily work flow for each employee. This app also autogenerates routes based on lead distance. It can handle callbacks, visits, and notes for each restaurant.",
+        tools: ['HTML', 'CSS', 'SQLite3', 'NodeJS', 'Express', 'Ubuntu'],
         code: '',
-        demo: 'https://jmcivileng.com/',
+        demo: 'https://casualhorizons.com/4432',
         image: ayla,
-        role: 'Project Manager / Backend & Frontend Dev',
+        role: 'Project Manager / Full Stack Dev',
+    },
+    {
+        id: 9,
+        name: 'TruPump Daily Exercise Routine Planner',
+        description: "Custom app that will take the users set question preferences and generate a new daily schedule to tune to each users desired workout schedule.",
+        tools: ['HTML', 'CSS', 'SQLite3', 'NodeJS', 'Express', 'Ubuntu'],
+        code: '',
+        demo: 'https://casualhorizons.com/4433',
+        image: ayla,
+        role: 'Project Manager / Full Stack Dev',
     }
 ];
 

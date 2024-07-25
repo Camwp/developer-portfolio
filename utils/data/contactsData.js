@@ -5,7 +5,7 @@ export const contactsData = {
     github: 'https://github.com/camwp',
     facebook: 'https://www.facebook.com/cameron.pedro.5/',
     linkedIn: 'https://www.linkedin.com/in/cameronpedro/',
-    twitter: 'https://twitter.com/said7388',
-    stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
+    twitter: 'https://twitter.com/',
+    stackOverflow: 'https://stackoverflow.com/',
     devUsername: "Sundaii"
 }
