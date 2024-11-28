@@ -80,7 +80,7 @@ export const projectsData = [
         description: "I have developed a dynamic JS webapp for one of my clients that requested a simple internal crm that displays information about their clients business as well as automatically schedules their daily work flow for each employee. This app also autogenerates routes based on lead distance. It can handle callbacks, visits, and notes for each restaurant.",
         tools: ['HTML', 'CSS', 'SQLite3', 'NodeJS', 'Express', 'Ubuntu'],
         code: '',
-        demo: 'https://casualhorizons.com/4432',
+        demo: 'OFFLINE',
         image: ayla,
         role: 'Project Manager / Full Stack Dev',
     },
@@ -90,7 +90,7 @@ export const projectsData = [
         description: "Custom app that will take the users set question preferences and generate a new daily schedule to tune to each users desired workout schedule.",
         tools: ['HTML', 'CSS', 'SQLite3', 'NodeJS', 'Express', 'Ubuntu'],
         code: '',
-        demo: 'https://casualhorizons.com/4433',
+        demo: 'OFFLINE',
         image: ayla,
         role: 'Project Manager / Full Stack Dev',
     }
