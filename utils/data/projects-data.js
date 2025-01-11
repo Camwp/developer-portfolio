@@ -90,9 +90,19 @@ export const projectsData = [
         description: "Custom app that will take the users set question preferences and generate a new daily schedule to tune to each users desired workout schedule.",
         tools: ['HTML', 'CSS', 'SQLite3', 'NodeJS', 'Express', 'Ubuntu'],
         code: '',
-        demo: 'OFFLINE',
+        demo: 'https://casualhorizons.com',
         image: ayla,
         role: 'Project Manager / Full Stack Dev',
+    },
+    {
+        id: 10,
+        name: 'Anonymous Thought Posting PWA',
+        description: "Custom app that will allow users to make posts without logging in and while staying anonymous. Including a moderator dashboard to manage and flag certain posts. Blocking certain words from showing in posts.",
+        tools: ['HTML', 'CSS', 'SQLite3', 'NodeJS', 'Express', 'React', 'Ubuntu'],
+        code: '',
+        demo: 'https://wallwhisper.netlify.app',
+        image: ayla,
+        role: 'Full Stack Dev',
     }
 ];
 
