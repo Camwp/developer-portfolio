@@ -9,7 +9,7 @@ export const experiences = [
     id: 2,
     title: "Software Tester  & Community Manager",
     company: "Cask Protocol",
-    duration: "(Feb 2020 - Present)"
+    duration: "(Feb 2020 - 2023)"
   },
   {
     id: 3,
