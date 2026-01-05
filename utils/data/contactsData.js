@@ -1,5 +1,5 @@
 export const contactsData = {
-    email: 'info@casualhorizons.com',
+    email: 'contact@casualhorizons.com',
     phone: '+19165792766',
     address: 'Rocklin, CA ',
     github: 'https://github.com/camwp',
